@@ -1,22 +1,11 @@
-#Makin-A-Code-Quiz
+# Makin-A-Code-Quiz
 This project was designed as a homework assignment for UCR coding bootcamp.
 
 This is a quiz application using HTML, CSS, and Javascript. This application emphasizes the use of Javascript to provide quiz questions and collect user data to determine whether the answers to a question are correct, this then generates a score and appends a final page of results from the user data.
 
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
-GitHub Repository
-Deployed GitHub IO
-Full Demo Video
-Code-Quiz Demo
-
-Prerequisites
-To install this application, you will need a text editor. I recommend Visual Studio Code.
-
-Installing
-To install this code, download the zip file, or use GitHub's guidelines to clone the repository.
-
-Summary
+# Summary
 HTML and CSS and Javascript documents create a quiz with multiple choice questions with Javascript trivia
 This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
 This project utilizes the use of appending HTML pages
@@ -31,9 +20,7 @@ If questions are answered incorrectly, 5 seconds are deducted off remaining time
 Answers are recording using an event listener, "click" and tracks correct answers
 
 
-
-
-An appended HTML page that features:
+# An appended HTML page that features:
 Final score which is calculated using time remaining
 A Summary of how many questions answered correctly
 Input area to record initials
@@ -41,13 +28,13 @@ A Submit button
 Submit buttom saves initials and score to local storage
 
 
-A Highscores HTML
+# A Highscores HTML
 This a list summary of intials and final scores
 Clear button resets the page and local storage
 Go back button travels to the start of the quiz
 
 
-Psuedo code:
+# Psuedo code:
 Create a timer attached to a button with a starting value of 0
 When timer is pressed start a reverse countdown
 Create a 0 for countdown
@@ -83,7 +70,7 @@ Adjusts buttons to be centered and stacked
 To Execute File:
 Open in browser
 
-Features:
+# Features:
 Two HTML Pages
 Index.html
 Contains landing page to start timer
