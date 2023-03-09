@@ -81,8 +81,3 @@ Styles.css
 Contains centering and styling for html list features
 Contains media queries
 Two Javascript Page * Contains: * Variables, including arrays with object * Event listeners * if/else if statements * For Loops * Functions * Local Storage set and get
-Authors
-Jamie Rachael Morris - Initial work - Git Hub Profile
-UNH Project Design
-Acknowledgments
-Hat tip to UNH for providing project parameters and code examples
